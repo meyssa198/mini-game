@@ -1,0 +1,11 @@
+.main{
+    
+    height: 100px;
+    width: 250px;
+    color: #1c1e21;
+    line-height: 16px;
+    size: 12px;
+    display: flex;
+    flex-direction:row;
+    line-height: 20px;
+}

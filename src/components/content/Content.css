@@ -1,0 +1,25 @@
+.content{
+    margin-top:-30px;
+}
+.button{
+    height:35px;
+    width: 60px;
+    color: #fff;
+    border : none;
+    border-radius: 5px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+.button-left{
+    background-color: #FB5C69;
+  
+}
+.button-right{
+    background-color: #302F31;
+    margin-right: 12px;
+}
+.content-msg{
+    margin-top: 20px;
+    margin-left: 0px;
+
+}
